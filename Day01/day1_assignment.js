@@ -1,0 +1,10 @@
+let firstName="srikanth";
+let companyName="Entain";
+let mobileNumber="78787868868";
+let isAutomation=true;
+let hasPlaywright;
+console.log("First name is "+ firstName +  " Type of firstName is "+ typeof firstName);
+console.log("companyName is "+ companyName +  " Type of companyName is "+ typeof companyName);
+console.log("mobileNumber is "+ mobileNumber +  " Type of mobileNumber is "+ typeof mobileNumber);
+console.log("isAutomation is "+ isAutomation +  " Type of isAutomation is "+ typeof isAutomation);
+console.log("hasPlaywright value is "+ hasPlaywright +  " Type of hasPlaywright is "+ typeof hasPlaywright);
